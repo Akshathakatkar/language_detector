@@ -58,6 +58,31 @@ abusive_words = [
     "vagina", "venus mound", "viagra", "vibrator", "violet wand", "vorarephilia", "voyeur",
     "voyeurweb", "voyuer", "vulva", "wank", "wetback", "wet dream", "white power", "whore",
     "worldsex", "wrapping men", "wrinkled starfish", "xx", "xxx", "yaoi", "yellow showers",
-    "yiffy", "zoophilia", "🖕"
+    "yiffy", "zoophilia", "🖕","bhenchod", "madarchod", "bhosdi", "chutiya", "gandu", "lund", 
+    "gaand", "randi", "chod", "chutiye", "bhadwa", "bhadve", "kamina", "haraami", "kutte", "kutti",
+    "mc", "bc", "saala", "loda", "chakka", "bhangi", "tatti", "suar", "chodu", "gand", "lulli",
+    "chinal", "rakhail", "chodna", "teri maa", "teri behen", "maa ka", "behen ka","idiot", "asshole",
+    "moron", "bastard", "bitch", "dumb", "stupid", "jerk", "prick", "loser",
+    "fuck", "shit", "dick", "crap", "cunt", "pussy", "wanker", "twat", "slut", "whore",
+    "scumbag", "douche", "retard", "freak", "sucker", "numbnuts", "dipshit", "jackass", "tool", "shithead",
+    "motherfucker", "cock", "piss", "screw", "bloody", "bollocks", "arse", "git", "nutjob", "fuckface",
+    "douchebag", "numbnut", "cocksucker", "shitbag", "dickhead", "airhead", "pea-brain", "dumbass", "knobhead", "twit",
+    "coward", "maniac", "sicko", "weirdo", "nutcase", "goon", "punk", "bimbo", "hag", "maggot",
+    "hoe", "dipwad", "wacko", "turd", "meathead", "dumbo", "crackhead", "bonehead", "dillweed", "skank",
+    "skunk", "slimeball", "gobshite", "shitface", "jerkwad", "fucktard", "smeghead", "shitstain", "shitforbrains", "anus",
+    "fuckwad", "twatwaffle", "shart", "fartknocker", "queef", "butthead", "ballsack", "scrote", "scrotum", "dingus",
+    "dipstick", "fuckboy", "fuckgirl", "arsehole", "bellend", "clown", "imbecile", "halfwit", "dickweed", "fucknut",
+    "shitlord", "ballbag", "numskull", "shitlicker", "bastardo", "hellspawn", "fucker", "motherfreaker", "arsewipe", "shitbrain",
+    "lowlife", "knucklehead", "dumbfuck", "dickbag", "anusface", "buttfucker", "jackoff", "wiener", "scatbrain", "airbrain",
+    "assclown", "shitpile", "fuckstick", "dickslap", "cockface", "fuckbrain", "shitcrap", "scumfuck", "fuckhead", "shitmouth",
+    "assface", "shitfaced", "fuckhole", "ballsucker", "fuckface", "asswipe", "asshat", "pissant", "bitchface", "shitcock",
+    "dumbshit", "dumbbell", "fatass", "lardass", "beanbrain", "bugger", "twatface", "shitass", "shitbreath", "cockroach",
+    "nutter", "arseface", "knob", "tosser", "wazzock", "pisshead", "fuckstick", "dicknose", "shitpants", "arselicker",
+    "craphole", "arsemonkey", "fuckhole", "fuckstick", "shitbrain", "fucktard", "dumbdumb", "cocksmoker", "asslicker", "dipfuck",
+    "fuckwit", "bitchboy", "fucktoy", "fuckup", "sadsack", "jerkoff", "creep", "dork", "nerd", "weeb",
+    "bozo", "twatwaffle", "fucknugget", "shitnugget", "dickbrain", "arsecrack", "buttmunch", "fuckbucket", "whackjob", "screwball",
+    "moronface", "buttlicker", "twitface", "assmonster", "garbageface", "dirtbag", "trashcan", "fuckknuckle", "boogerface", "poophead"
+
+
 ]
 
